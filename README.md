@@ -60,6 +60,3 @@ Each visualization helped identify key patterns in global spread, country-wise s
 - There’s a strong positive correlation between daily new cases and active cases.
 
 <br>
-
-## 📂 Project Structure
-
